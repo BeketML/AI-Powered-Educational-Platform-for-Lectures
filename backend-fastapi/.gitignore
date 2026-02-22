@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# FastAPI / Uvicorn
+*.log
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# SQLite database (if used)
+*.db
+
+# Migrations (if not needed)
+alembic/versions/
+
+# mypy
+.mypy_cache/
+
+# Ruff / lint
+.ruff_cache/
+
+# Coverage
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Static files
+staticfiles/
+
+# Node (if frontend inside project)
+node_modules/
